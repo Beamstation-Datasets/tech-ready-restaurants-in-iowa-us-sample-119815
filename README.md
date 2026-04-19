@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 13 records |
 | Free sample size | 1 records (7.69%) |
-| Last export | 2026-04-08T05:57:38.901109+00:00 |
+| Last export | 2026-04-15T09:53:17.863607+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-iowa-us-sample-119815/releases/download/sample-latest/beamstation_119815_restaurants-us-ia_SAMPLE_DIST.csv) |
 
 ## What is in this sample
