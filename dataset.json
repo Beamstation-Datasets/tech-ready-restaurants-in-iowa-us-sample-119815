@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in Iowa, US",
-  "export_job_id": "81de075e-667a-4455-a84d-e8fde9ea10a3",
+  "export_job_id": "dbb2f951-79be-4ee9-8f32-4287e5abd077",
   "github_org": "Beamstation-Datasets",
   "id_short": 119815,
   "location_name": "Iowa",
   "location_type": "state",
   "repo_name": "tech-ready-restaurants-in-iowa-us-sample-119815",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/119815/beamstation_119815_restaurants-us-ia_SAMPLE_DIST.csv",
-  "sample_pct": 7.69,
+  "sample_pct": 25.0,
   "sample_records": 1,
-  "sample_sha256": "dbd798bb0c2ecf8e9c86313ef79bcdddef7be04bee3d95c216a96fad81547230",
-  "sample_size_bytes": 19566,
-  "total_records": 13,
-  "updated_at": "2026-04-15T09:53:17.863607+00:00"
+  "sample_sha256": "f0132a514f9a0ce28652c343924af0877261f14a2ec8027f4e1661418ab85f87",
+  "sample_size_bytes": 20091,
+  "total_records": 4,
+  "updated_at": "2026-04-22T17:16:48.269745+00:00"
 }
