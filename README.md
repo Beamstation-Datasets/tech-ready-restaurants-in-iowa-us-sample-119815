@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Iowa, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 6 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `119815` |
 | Location | Iowa |
 | Category | Restaurants |
-| Full dataset size | 4 records |
-| Free sample size | 1 records (25.0%) |
-| Last export | 2026-04-22T17:16:48.269745+00:00 |
+| Full dataset size | 66 records |
+| Free sample size | 6 records (9.09%) |
+| Last export | 2026-04-29T17:10:52.780368+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-iowa-us-sample-119815/releases/download/sample-latest/beamstation_119815_restaurants-us-ia_SAMPLE_DIST.csv) |
 
 ## What is in this sample
