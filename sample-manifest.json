@@ -1,12 +1,12 @@
 {
-  "export_job_id": "dbb2f951-79be-4ee9-8f32-4287e5abd077",
+  "export_job_id": "c8db8cb2-f2bf-4d90-8a5b-3b2ea3857a25",
   "id_short": 119815,
-  "published_at": "2026-04-22T19:14:05Z",
+  "published_at": "2026-04-29T19:55:25Z",
   "repo_name": "tech-ready-restaurants-in-iowa-us-sample-119815",
   "sample_asset_name": "beamstation_119815_restaurants-us-ia_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/119815/beamstation_119815_restaurants-us-ia_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "f0132a514f9a0ce28652c343924af0877261f14a2ec8027f4e1661418ab85f87",
-  "sample_size_bytes": 20091,
-  "total_records": 4
+  "sample_records": 6,
+  "sample_sha256": "f13880d97008d786f0e1cc2bdcb198c1d369029c25d20d24594ba10b9467a390",
+  "sample_size_bytes": 38689,
+  "total_records": 66
 }
